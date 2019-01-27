@@ -1,5 +1,4 @@
-# Strike
-<img src="https://github.com/rtiwariops/Strike/blob/master/image/fraud_detection.jpg" width="50" height="50">
+#<img src="https://github.com/rtiwariops/Strike/blob/master/image/fraud_detection.jpg" width="50" height="50"> Strike
 Strike is a Credit Card Fraud Detection Application that we will be developing for demonstration purposes showing unsupervised machine learning using anomaly detection from  sklearn package.
 
 ## Data Description
