@@ -1,5 +1,5 @@
 # Strike
-Strike is a Credit Card Fraud Detection Application.
+Strike is a Credit Card Fraud Detection Application that we will be developing for demonstration purposes showing unsupervised machine learning using anomaly detection from  sklearn package.
 
 ## Data Description
 ### Context
