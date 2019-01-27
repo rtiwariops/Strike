@@ -18,9 +18,9 @@ Please cite: Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson and Gianluca Bo
 ### CSV dataset
 CSV dataset is 144Mb structured dataset from Kaggle. Shoutout to Kaggle on getting us this valuable information.
 #### Columns
-##### Time: Number of seconds elapsed between this transaction and the first transaction in the dataset<br />
-##### V1: may be result of a PCA Dimensionality reduction to protect user identities and sensitive features(v1-v28)<br />
-##### V2<br />
+Time: Number of seconds elapsed between this transaction and the first transaction in the dataset<br />
+V1: may be result of a PCA Dimensionality reduction to protect user identities and sensitive features(v1-v28)<br />
+V2<br />
 V3<br />
 V4<br />
 V5<br />
