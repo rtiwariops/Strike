@@ -1,8 +1,8 @@
 # Strike
 <img src="https://github.com/rtiwariops/Strike/blob/master/image/fraud_detection.jpg" width="50" height="50">
-Strike is a Credit Card Fraud Detection Application that we will be developing for demonstration purposes showing unsupervised machine learning using anomaly detection from  sklearn package.
+Strike is a Credit Card Fraud Detection Project that we will be developing for demonstration purposes showing unsupervised machine learning using anomaly detection from sklearn package.
 
-Download the dataset wither from Kaggle or from [here](https://s3-us-west-2.amazonaws.com/strikedataset/creditcard.csv)
+Download the dataset either from Kaggle or from [here](https://s3-us-west-2.amazonaws.com/strikedataset/creditcard.csv). Notebook with complete code can be found [here](https://github.com/rtiwariops/Strike/blob/master/strike_credit_card_Fraud_detection.ipynb).
 
 ## Data Description
 ### Context
